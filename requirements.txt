@@ -47,3 +47,5 @@ setuptools
 yt-dlp[default]>=2025.10.31.222828.dev0
 tmdbv3api
 imdbinfo
+beautifulsoup4
+cloudscraper
