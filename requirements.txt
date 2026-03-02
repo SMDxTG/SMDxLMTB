@@ -44,7 +44,7 @@ uv
 uvloop==0.21.0
 xattr
 setuptools
-yt-dlp[default]>=2025.10.31.222828.dev0
+yt-dlp
 tmdbv3api
 imdbinfo
 beautifulsoup4
