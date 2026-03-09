@@ -50,3 +50,4 @@ tmdbv3api
 imdbinfo
 beautifulsoup4
 cloudscraper
+simplejustwatchapi
