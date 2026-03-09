@@ -50,4 +50,4 @@ tmdbv3api
 imdbinfo
 beautifulsoup4
 cloudscraper
-simplejustwatchapi
+simple-justwatch-python-api==0.13
