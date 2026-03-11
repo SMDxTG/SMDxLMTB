@@ -32,7 +32,6 @@ pybase64
 pycountry
 pymongo
 pyrofork
-pyrogram
 python-dotenv
 python-magic
 qbittorrent-api
