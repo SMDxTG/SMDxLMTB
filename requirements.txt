@@ -1,13 +1,11 @@
 aiohttp
 aiofiles
 aioshutil
-anytree==2.8.0
+anytree
 apscheduler
 aria2p
 asyncio
-beautifulsoup4
 cinemagoer
-cloudscraper
 cryptography
 dnspython
 feedparser
@@ -41,7 +39,7 @@ telegraph
 tenacity
 tgcrypto
 uv
-uvloop==0.21.0
+uvloop
 xattr
 setuptools
 yt-dlp
@@ -49,4 +47,4 @@ tmdbv3api
 imdbinfo
 beautifulsoup4
 cloudscraper
-simple-justwatch-python-api==0.13
+simple-justwatch-python-api
