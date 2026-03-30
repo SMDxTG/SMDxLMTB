@@ -38,6 +38,7 @@ speedtest-cli
 telegraph
 tenacity
 tgcrypto
+heroku3
 uv
 uvloop
 xattr
