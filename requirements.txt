@@ -49,3 +49,4 @@ imdbinfo
 beautifulsoup4
 cloudscraper
 simple-justwatch-python-api
+html-telegraph-poster
