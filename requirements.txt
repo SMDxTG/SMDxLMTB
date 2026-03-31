@@ -28,7 +28,6 @@ imdbinfo
 langcodes[data]
 lxml
 markdown
-mega
 megasdk
 motor
 mutagen
