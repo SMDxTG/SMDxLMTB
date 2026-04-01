@@ -39,6 +39,7 @@ pycountry
 pycryptodome
 pymongo
 pyrofork
+pyrogram
 python-dotenv
 python-magic
 pytz
@@ -53,7 +54,7 @@ tgcrypto
 tmdbv3api
 urllib3
 uv
-uvloop==0.21.0
+uvloop
 waybackpy
 xattr
 yt-dlp[default,curl-cffi]
