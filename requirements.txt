@@ -39,7 +39,6 @@ pycountry
 pycryptodome
 pymongo
 pyrofork
-pyrogram
 python-dotenv
 python-magic
 pytz
