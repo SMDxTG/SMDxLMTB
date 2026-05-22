@@ -22,7 +22,6 @@ gtts
 gunicorn
 heroku3
 html-telegraph-poster
-html_telegraph_poster
 httpx
 imdbinfo
 langcodes[data]
@@ -56,4 +55,4 @@ uv
 uvloop
 waybackpy
 xattr
-yt-dlp[default,curl-cffi]
+yt-dlp
