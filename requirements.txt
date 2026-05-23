@@ -52,8 +52,7 @@ tenacity
 tgcrypto
 tmdbv3api
 urllib3
-#uv
-#uvloop
+uvloop
 waybackpy
 xattr
 yt-dlp
