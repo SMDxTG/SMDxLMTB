@@ -4,7 +4,7 @@ aioshutil
 anytree
 apscheduler
 aria2p
-#asyncio
+asyncio
 beautifulsoup4
 bs4
 cinemagoer
