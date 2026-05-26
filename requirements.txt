@@ -1,7 +1,7 @@
 aiofiles
 aiohttp
 aioshutil
-anytree
+anytree==2.8.0
 apscheduler
 aria2p
 asyncio
@@ -37,8 +37,8 @@ pybase64
 pycountry
 pycryptodome
 pymongo
-pyrofork
-#pyrogram
+#pyrofork
+pyrogram==2.0.106
 python-dotenv
 python-magic
 pytz
