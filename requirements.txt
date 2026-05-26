@@ -37,8 +37,8 @@ pybase64
 pycountry
 pycryptodome
 pymongo
-#pyrofork
-pyrogram
+pyrofork
+#pyrogram
 python-dotenv
 python-magic
 pytz
