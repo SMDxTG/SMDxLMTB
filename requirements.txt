@@ -36,6 +36,7 @@ pybase64
 pycountry
 pycryptodome
 pymongo
+pymediainfo==6.1.0
 pyrofork==2.2.11
 python-dotenv
 python-magic
