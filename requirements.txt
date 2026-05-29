@@ -6,7 +6,6 @@ apscheduler
 aria2p
 asyncio
 beautifulsoup4
-bs4
 cinemagoer
 cloudscraper
 cryptography
@@ -51,7 +50,8 @@ tenacity
 tgcrypto
 tmdbv3api
 urllib3
-uvloop
+uv
+uvloop==0.21.0
 waybackpy
 xattr
 yt-dlp
